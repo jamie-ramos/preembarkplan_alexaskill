@@ -1,0 +1,19 @@
+{
+  "name": "pre-embark",
+  "version": "1.0.0",
+  "private": true,
+  "keywords"" [
+    "alexa",
+    "pre-embark",
+    "embark",
+    "pre-onboarding",
+    "onboarding",
+    "amazon",
+    "aws"
+  ],
+  "author":"Three's a Cloud",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "https":"^1.0.0"
+  }
+}
